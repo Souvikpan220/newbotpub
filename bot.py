@@ -5,7 +5,8 @@ import yaml
 import time
 import os
 
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = "MTQ1MzI2NTU1OTk4MTY1NDAxNg.GRgbf7.tadmtmxzvZ4T6pIhRYEs75zwb8IyYh1gp2xEp0"
+
 
 if not TOKEN:
     raise RuntimeError("DISCORD_TOKEN is missing")
@@ -217,6 +218,7 @@ async def on_ready():
     print(f"JEET Bot Online as {client.user}")
 
 client.run(TOKEN)
+
 
 
 
