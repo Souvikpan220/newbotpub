@@ -1,0 +1,20 @@
+discord:
+  token: "MTQ1MzI2NTU1OTk4MTY1NDAxNg.G1zngQ.8mqAZHm5HDB-84llQUiNENN19LBivvWKsCn2BU"
+  log_channel_id: 1453266242231337133
+  allowed_channel_id: 1452952294445289483
+  guild_id: 1451871483222823027
+
+api:
+  url: "https://falconsmmpanel.com/api/v2"
+  key: "4189c848eb2114f4cf7eb9ed4b3bc4d7"
+
+services:
+  views: 2409
+  likes: 2635
+  shares: 2710
+  follows: 2597
+
+roles:
+  free: "Free"
+  bronze: "Bronze"
+  silver: "Silver"
